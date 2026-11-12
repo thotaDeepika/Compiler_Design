@@ -1,10 +1,10 @@
-# Enhanced Mini Compiler with TAC Optimization & Interactive UI
+# Enhanced Mini Compiler with TAC Optimization 
 
 An educational compiler implemented in Python following the research architecture of **Singh & Kulkarni (IJIRT 2026)**, with enhanced extensions including **Common Subexpression Elimination (CSE)**, **Strength Reduction**, and an **Interactive Visual Studio GUI**.
 
 ---
 
-## 📸 Interactive UI Screenshot
+## 📸 
 
 ![Enhanced Mini Compiler UI](docs/ui_screenshot.png)
 
