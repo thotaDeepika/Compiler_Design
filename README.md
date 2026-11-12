@@ -4,7 +4,7 @@ An educational compiler implemented in Python following the research architectur
 
 ---
 
-## 📸 
+## 📸 screenshot
 
 ![Enhanced Mini Compiler UI](docs/ui_screenshot.png)
 
